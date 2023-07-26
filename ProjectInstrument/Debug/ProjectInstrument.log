@@ -1,0 +1,4 @@
+﻿  ProjectMain.c
+C:\Users\yarin\source\repos\ProjectInstrument\ProjectInstrument\ProjectMain.c(12,86): warning C4047: '=': 'Musician **' differs in levels of indirection from 'Musician *'
+C:\Users\yarin\source\repos\ProjectInstrument\ProjectInstrument\ProjectMain.c(6,8): warning C4101: 'musiciansfile': unreferenced local variable
+  ProjectInstrument.vcxproj -> C:\Users\yarin\source\repos\ProjectInstrument\Debug\ProjectInstrument.exe
